@@ -74,12 +74,8 @@
                         condiciones de uso?</label>
                 </td>
             </tr>
-            <tr>
-                <td colspan="2"><label for="profile">Suba una imagen para finalizar su perfil, solo se admiten: png, gif y jpeg.</label> </td>
-            </tr>
-            <tr>
-                <td colspan="2"><input type="file" name="profile" accept="image/png, image/gif, image/jpeg" /></td>
-            </tr>
+
+
 
         </table>
 
